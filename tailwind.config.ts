@@ -47,6 +47,11 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        flask: {
+          acid: "hsl(var(--flask-acid))",
+          base: "hsl(var(--flask-base))",
+          neutral: "hsl(var(--flask-neutral))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
